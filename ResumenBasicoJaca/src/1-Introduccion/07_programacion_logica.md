@@ -8,6 +8,9 @@
 
 - ***Ejemplos:*** Lenguajes como Prolog y Datalog.
 ---
+###### Apuntes
+los programas consisten en un conjunto de sentencias lógicas que describen las relaciones entre los datos.
+
 ### Ventajas
 Ideal para problemas de lógica y deducción, fácil de entender y escribir reglas.
 ### Desventajas

@@ -7,3 +7,6 @@
 - ***Ejemplos:*** Se mencionan paradigmas como la programación imperativa, orientada a objetos y funcional.
 
 - ***Importancia:*** Comprender los paradigmas facilita la elección del enfoque más adecuado para cada problema.
+---
+###### Apuntes
+Los paradigmas ayudan a evitar codigo spaghetti, facilitan la reutilización de código y permiten abstraer la complejidad de los sistemas.
