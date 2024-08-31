@@ -1,4 +1,4 @@
-3. *Paradigma Estructurado*
+# 3. *Paradigma Estructurado*
 
 - ***Principio:*** Divide y vencerás. El programa se descompone en pequeñas partes manejables llamadas funciones.
 

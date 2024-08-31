@@ -8,10 +8,10 @@
 
 - ***Ejemplos:*** Lenguajes como Lisp, Haskell, y Scala son lenguajes funcionales.
 ---
-###### Apuntes
+##### Apuntes
 Se basa en la evaluación de funciones matemáticas puras.
 
-### Ventajas
+###### Ventajas
 Código más predecible y fácil de testear, evita efectos secundarios.
-### Desventajas
+###### Desventajas
 Puede ser menos intuitivo para quienes están acostumbrados a la programación imperativa.

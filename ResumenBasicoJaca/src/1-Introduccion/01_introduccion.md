@@ -1,4 +1,4 @@
-1. *Introducción a los Paradigmas de Programación*
+# 1. *Introducción a los Paradigmas de Programación*
 
 - ***Definición:*** Un paradigma de programación es un estilo o enfoque para diseñar y estructurar soluciones de software.
 
@@ -8,5 +8,5 @@
 
 - ***Importancia:*** Comprender los paradigmas facilita la elección del enfoque más adecuado para cada problema.
 ---
-###### Apuntes
+##### Apuntes
 Los paradigmas ayudan a evitar codigo spaghetti, facilitan la reutilización de código y permiten abstraer la complejidad de los sistemas.

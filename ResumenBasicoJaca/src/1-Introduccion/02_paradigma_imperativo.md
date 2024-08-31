@@ -1,4 +1,4 @@
-2. *Paradigma Imperativo*
+# 2. *Paradigma Imperativo*
 
 - ***Instructivo:*** Se centra en describir paso a paso las instrucciones que la computadora debe ejecutar.
 
@@ -8,7 +8,7 @@
 
 - ***Ejemplos:*** Lenguajes como C, Java, y Pascal son ejemplos de lenguajes imperativos.
 ---
-###### Apuntes
+##### Apuntes
 Cercano al hardware.
 
 > el imperativo es cuando le decis explicitamente a la computadora que hacer, paso a paso, es decir, le decis que hacer y como hacerlo.
