@@ -1,4 +1,3 @@
-
 # Clases Y Objetos en Java
 
 ## Clases
@@ -136,3 +135,11 @@ public class Main {
     }
 }
 ```
+
+# Conceptos
+> - **Clase**: Plantilla para crear objetos.
+> - **Objeto**: Instancia de una clase.
+> - **Atributo**: Variables de una clase.
+> - **Método**: Funciones de una clase.
+> - **Constructor**: Método especial para inicializar objetos.
+> - **Palabra clave `this`**: Hace referencia al objeto actual.
