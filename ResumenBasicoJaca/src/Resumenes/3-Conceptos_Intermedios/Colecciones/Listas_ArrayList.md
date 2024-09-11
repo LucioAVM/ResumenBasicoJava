@@ -47,5 +47,26 @@ public class Main {
 - **Flexibilidad**: Útil cuando se necesita una estructura de datos que pueda crecer y reducirse dinámicamente.
 - **Orden**: Mantiene el orden de inserción, lo que es útil para listas ordenadas.
 
+## Metodos
+
+| **Método**                        | **Descripción**                                                                 |
+|-----------------------------------|---------------------------------------------------------------------------------|
+| `add(E e)`                        | Añade el elemento especificado al final de la lista.                            |
+| `add(int index, E element)`       | Inserta el elemento en la posición especificada.                                |
+| `addAll(Collection<? extends E> c)`| Añade todos los elementos de la colección especificada al final de la lista.    |
+| `clear()`                         | Elimina todos los elementos de la lista.                                        |
+| `contains(Object o)`              | Devuelve `true` si la lista contiene el elemento especificado.                  |
+| `get(int index)`                  | Devuelve el elemento en la posición especificada.                               |
+| `indexOf(Object o)`               | Devuelve el índice de la primera ocurrencia del elemento especificado.          |
+| `isEmpty()`                       | Devuelve `true` si la lista no contiene elementos.                              |
+| `remove(int index)`               | Elimina el elemento en la posición especificada.                                |
+| `remove(Object o)`                | Elimina la primera ocurrencia del elemento especificado.                        |
+| `size()`                          | Devuelve el número de elementos en la lista.                                    |
+| `set(int index, E element)`       | Reemplaza el elemento en la posición especificada con el elemento especificado. |
+| `subList(int fromIndex, int toIndex)`| Devuelve una vista de la porción de la lista entre `fromIndex` (inclusive) y `toIndex` (exclusivo). |
+| `toArray()`                       | Devuelve un array que contiene todos los elementos de la lista en el orden correcto. |
+| `iterator()`                      | Devuelve un iterador sobre los elementos de la lista.                           |
+
+
 ## Conclusión
 `ArrayList` es una opción excelente para manejar listas de elementos en Java cuando se necesita flexibilidad y acceso rápido mediante índices. Su capacidad para cambiar de tamaño dinámicamente y su rica API lo hacen ideal para muchas aplicaciones.
